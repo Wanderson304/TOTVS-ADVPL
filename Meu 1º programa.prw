@@ -6,6 +6,7 @@ Programa: Meu 1º programa
 Função: Somar dois númmeros
 Autor: Wanderson
 Data: 07/11/2025
+Horas: 05:40:00 am
 */
 
 //FInção de usuario
